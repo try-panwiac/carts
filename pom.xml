@@ -70,7 +70,7 @@
         <dependency>
             <groupId>com.openpojo</groupId>
             <artifactId>openpojo</artifactId>
-            <version>0.8.4</version>
+            <version>0.7.1</version>
             <scope>test</scope>
         </dependency>
     </dependencies>
